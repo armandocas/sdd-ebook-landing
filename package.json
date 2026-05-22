@@ -1,6 +1,7 @@
 {
   "name": "sdd-ebook-landing",
   "version": "1.0.0",
+  "type": "module",
   "private": true,
   "description": "Landing page para o ebook Spec Driven Development",
   "scripts": {
